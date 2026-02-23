@@ -1,0 +1,21 @@
+{
+  "name": "lab04",
+  "version": "1.0.0",
+  "description": "The AF labo4",
+  "homepage": "https://github.com/ThisaruYasanjith/AF_Lab03#readme",
+  "bugs": {
+    "url": "https://github.com/ThisaruYasanjith/AF_Lab03/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThisaruYasanjith/AF_Lab03.git"
+  },
+  "license": "ISC",
+  "author": "Maddumahewa T.Y.",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
